@@ -141,7 +141,7 @@ public class GridIteration<E> {
 
 	static public void main(String[] args) {
 		Character character = new Character('X');
-		GridRecursive<Character> theGrid = new GridRecursive<Character>(10, 10);
+		GridIteration<Character> theGrid = new GridIteration<Character>(10, 10);
 		theGrid.setGrid(40, 'X');
 		System.out.println(theGrid.toString());
 		System.out.println(theGrid.countBlobs(character));

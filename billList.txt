@@ -1,0 +1,8 @@
+Barnes and Noble
+255.43 11/23/2014 education
+Macy's
+345.78 12/23/2017 clothing
+Midtown Comics
+5.76 11/3/2015 education
+Moishe's
+546.76 4/13/2016 groceries
